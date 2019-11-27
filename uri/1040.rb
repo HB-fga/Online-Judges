@@ -22,3 +22,6 @@ else
         puts "Aluno aprovado."
     else
         puts "Aluno reprovado."
+    end
+    puts "Media final: " + media.to_s
+end
